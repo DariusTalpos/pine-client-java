@@ -16,7 +16,7 @@ The `toLEArray()` method is used to obtain a little-endian byte array of the val
 
 ## TCP/TCPDefaults
 
-`TCP` is a wrapper class that contains the host and port (refferred in PINE as 'slot') that will be used to connect to an emulator instance.
+`TCP` is a wrapper class that contains the host and port (refered to in PINE as 'slot') that will be used to connect to an emulator instance.
 `TCPDefaults` is an enum that contains default TCP host and port data for both PCSX2 and RPCS3.
 
 ## PineCommand
