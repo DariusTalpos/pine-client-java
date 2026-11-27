@@ -2,7 +2,7 @@
 
 This repository contains classes and enums designed to allow communication via PINE to the [PCSX2](https://pcsx2.net/) and [RPCS3](https://rpcs3.net/) emulators on Windows operating systems, allowing users to read to and write from memory addresses, view game data amongst others.
 
-The project was inspired by the Rust library implementation developed by Lei Cao, available [here](https://github.com/caol64/pine-client). 
+The project was inspired by the Rust library implementation developed by Lei Cao, available [here](https://github.com/caol64/pine-client), created under the MIT license available at `LICENSE-Lei-Cao`.
 
 ## PineException
 
