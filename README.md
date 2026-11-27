@@ -10,7 +10,7 @@ An exception class which will be thrown when issues appear during the creation o
 
 ## u8/u16/u32/u64
 
-Special classes designed to store unsigned 8-bit, 16-bit, 32-bit and 64-bit numerical values respectively. These classes are used for creating values of different sizes to memory addresses which are always expected to be `u32` objects. 
+Special classes designed to store unsigned 8-bit, 16-bit, 32-bit and 64-bit numerical values respectively. These classes are used for creating values of different sizes to be sent to or read from memory addresses (which are always expected to be `u32` objects). 
 
 The `toLEArray()` method is used to obtain a little-endian byte array of the value stored within.
 
